@@ -1,0 +1,14 @@
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\bin\Debug\net8.0\Practica1_202307764.exe
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\bin\Debug\net8.0\Practica1_202307764.deps.json
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\bin\Debug\net8.0\Practica1_202307764.runtimeconfig.json
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\bin\Debug\net8.0\Practica1_202307764.dll
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\bin\Debug\net8.0\Practica1_202307764.pdb
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.AssemblyInfoInputs.cache
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.AssemblyInfo.cs
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.csproj.CoreCompileInputs.cache
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.dll
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\refint\Practica1_202307764.dll
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.pdb
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\Practica1_202307764.genruntimeconfig.cache
+C:\Users\daish\OneDrive\Documentos\U\2026 1s\IPC2\C#\Practica1_202307764\obj\Debug\net8.0\ref\Practica1_202307764.dll
